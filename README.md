@@ -3,7 +3,8 @@ Installation
 
 1. Add this extension to your Gemfile with this line:
 
-  ```gem 'spree_favorite_products', github: 'rubyonrailsdeveloper/spree_favorite_product'
+  ```
+  gem 'spree_favorite_products', github: 'rubyonrailsdeveloper/spree_favorite_product'
   ```
 
 2. Install the gem using Bundler:
